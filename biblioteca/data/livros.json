@@ -12,6 +12,12 @@
         "autor": "Machado de Assis",
         "isbn": "978-85-235-0000-222",
         "ano": "1899"
+    },
+    {
+        "id": "69f9ea5e69aff",
+        "titulo": "It: A Coisa",
+        "autor": "Stephen King",
+        "isbn": "978-85-0000-000-0",
+        "ano": "2024"
     }
- 
 ]
